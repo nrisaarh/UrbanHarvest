@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1089679843288",
+    "project_id": "tubespapb-40e75",
+    "storage_bucket": "tubespapb-40e75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1089679843288:android:082fb38e065c12ac3edcad",
+        "android_client_info": {
+          "package_name": "com.example.tubesfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDe9f-ZoBSjlgp3d09RiJFFL5OG9_gwF1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
